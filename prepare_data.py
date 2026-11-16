@@ -9,7 +9,7 @@ Each row is one offer (a shop's listing of a product).
     4. Clean messy titles and brand text
     5. Split product groups into train / val /test sets
 
-    Usage: uv run python prepare_data.py
+Usage: uv run python prepare_data.py
 """
 
 import gzip
